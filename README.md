@@ -63,7 +63,7 @@ Demo
 
 In this PoC video, the two security issues concerning the password protection of the Eaton easyE4 programmable logic controller (PLC) and the corresponding software easySoft are demonstrated.
 
-[![SySS PoC Video: Eaton easy Password Hacking // Password Recovery for easySoft and easyE4 PLC](/images/eaton_easy_password_hacking_video.jpg)](https://www.youtube.com/watch?v=H4R6J8dNFek "Eaton easy Password Hacking // Password Recovery for easySoft and easyE4 PLC")
+[![SySS PoC Video: Eaton easy Password Hacking // Password Recovery for easySoft and easyE4 PLC](/images/eaton_easy_password_recovery_video.jpg)](https://www.youtube.com/watch?v=H4R6J8dNFek "Eaton easy Password Hacking // Password Recovery for easySoft and easyE4 PLC")
 
 Author
 ----------
